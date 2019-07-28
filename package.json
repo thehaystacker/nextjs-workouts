@@ -1,0 +1,32 @@
+{
+  "name": "nextjs-workouts",
+  "version": "1.0.0",
+  "description": "An experimental project to learn next-js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thehaystacker/nextjs-workouts.git"
+  },
+  "keywords": [
+    "next-js",
+    "workouts",
+    "react",
+    "tutorials"
+  ],
+  "author": "thehaystacker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thehaystacker/nextjs-workouts/issues"
+  },
+  "homepage": "https://github.com/thehaystacker/nextjs-workouts#readme",
+  "dependencies": {
+    "next": "^9.0.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
