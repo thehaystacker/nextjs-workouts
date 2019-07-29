@@ -6,11 +6,6 @@ const contactsPage = (props) => (
 
   <h1>Contact Page</h1>
   </div>
-  <style jsx>{`
-    body {
-      background: red;
-    }
-    `}</style>
 )
 
 export default contactsPage;
